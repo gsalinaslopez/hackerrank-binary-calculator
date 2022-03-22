@@ -1,0 +1,33 @@
+body {
+    width: 33%;
+}
+
+#res {
+    background-color: lightgray;
+    border: solid;
+    height: 48px;
+    font-size: 20px;
+}
+
+button {
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
+}
+
+.numButtonClass {
+    background-color: lightgreen;
+    color: brown;
+}
+
+.resButtonClass {
+    background-color: darkgreen;
+    color: white;
+}
+
+.opButtonClass {
+    background-color: black;
+    color: red;
+}
